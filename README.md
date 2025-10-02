@@ -1,16 +1,18 @@
-## Hi there 👋
+# Привет, я Лев! 👋
 
-<!--
-**Levletsplay0/Levletsplay0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Школьник**
 
-Here are some ideas to get you started:
+Я увлекаюсь программированием на Python и создаю интересные проекты в свободное от учебы время.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Мой стек технологий:
+- **Языки:** Python
+- **Фреймворки:** Django, Flask (изучаю)
+- **Инструменты:** Git, GitHub, VS Code
+
+## 📈 Моя активность на GitHub:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levletsplay0&layout=compact&theme=radical)](https://github.com/levletsplay0)
+
+## 📫 Как со мной связаться:
+- Telegram: [@Levletsplay](https://t.me/Levletsplay)
+
